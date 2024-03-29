@@ -4,3 +4,5 @@
 <a href="0001.csi_camera.md">How to view CSI camera in NVIDIA Jetson Nano.</a>
 
 <a href="0002.install_new_v_python.md">How to install newer version of Python in NVIDIA Jetson Nano.</a>
+
+<a href="0003.Python_virtual_env.md">How to install Python Virtual Environment in NVIDIA Jetson Nano.</a>

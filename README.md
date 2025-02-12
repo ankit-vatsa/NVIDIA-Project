@@ -25,11 +25,11 @@ For details on TensorRT's license agreement, visit https://docs.nvidia.com/deepl
 
 === References ===
 
-Quick Start Guide: https://docs.nvidia.com/deeplearning/tensorrt/quick-start-guide
-Release Notes: https://docs.nvidia.com/deeplearning/tensorrt/release-notes
-Support Matrix: https://docs.nvidia.com/deeplearning/tensorrt/support-matrix
-Installation Guide: https://docs.nvidia.com/deeplearning/tensorrt/install-guide
+- Quick Start Guide: https://docs.nvidia.com/deeplearning/tensorrt/quick-start-guide
+- Release Notes: https://docs.nvidia.com/deeplearning/tensorrt/release-notes
+- Support Matrix: https://docs.nvidia.com/deeplearning/tensorrt/support-matrix
+- Installation Guide: https://docs.nvidia.com/deeplearning/tensorrt/install-guide
 
-API Reference: https://docs.nvidia.com/deeplearning/tensorrt/api
-Developer Guide: https://docs.nvidia.com/deeplearning/tensorrt/developer-guide
-Sample Support Guide: https://docs.nvidia.com/deeplearning/tensorrt/sample-support-guide
+- API Reference: https://docs.nvidia.com/deeplearning/tensorrt/api
+- Developer Guide: https://docs.nvidia.com/deeplearning/tensorrt/developer-guide
+- Sample Support Guide: https://docs.nvidia.com/deeplearning/tensorrt/sample-support-guide

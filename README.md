@@ -1,5 +1,9 @@
 <h1>Welcome to the NVIDIA-Project repository.</h1>
 
+<h2><a href="https://developer.nvidia.com/embedded/learn/get-started-jetson-nano-devkit#write">Getting Started with Jetson Nano - Click Here for Initial Setup</a></h2>
+
+<h3><a href="/DIY">After the initial setup, also check this. - Click Here</a></h3>
+
 === NVIDIA TensorRT ===
 
 NVIDIA® TensorRT™ is a C++ library that facilitates high-performance inference
